@@ -3,7 +3,7 @@
 using namespace std;
 
 //variable globa;
-string nama;
+string nama;   
 
 int main (){ //program utama
     int age; //variable local
